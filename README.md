@@ -12,10 +12,8 @@ Restructured CSS  classes to be grouped together for easy editing in the future
 
 Created new ID "search-engine-optimization" to allow the link at the top to directly load to Corresponding portion of the page.
 
-![Final layout design](https://github.com/Yeatman51/Horiseon-Social-Solutions/blob/main/assets/images/Screenshot_2021-01-30%20Horiseon%20Social%20Solutions.jpg)
-
-![Final layout design](assets/Screenshot_2021-01-30 Horiseon Social Solutions.jpg)
 
 https://github.com/Yeatman51/Horiseon-Social-Solutions/blob/main/assets/images/Screenshot_2021-01-30%20Horiseon%20Social%20Solutions.jpg
 
-![Final layout design](Horiseon-Social-Solutions/blob/main/assets/images/Screenshot_2021-01-30%20Horiseon%20Social%20Solutions.jpg)
+![Final layout design](https://github.com/Yeatman51/Horiseon-Social-Solutions/blob/main/assets/images/Screenshot_2021-01-30%20Horiseon%20Social%20Solutions.jpg)
+>>>>>>> 24e25fa238ab6f8afea15b360dc5fea68b9badb1
